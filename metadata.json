@@ -1,0 +1,6 @@
+{
+  "name": "Edugenius",
+  "description": "Edugenius - Stage 6 Testing & Security (Calculations, Permissions, Payment Failures, Recovery, Privacy, Backups) and Stage 7 Publish & Launch",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
